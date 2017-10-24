@@ -36,6 +36,10 @@
     * [ebay](https://www.ebay.com.au/itm/100pcs-5mm-LED-Lights-Infrared-Emitters-IR-Emitting-Diodes-940nm-Wave-Length/201201649166)
   * GL5528 LDR Photo Resistors
     * [ebay](http://www.ebay.com.au/itm/20PCS-Photoresistor-GL5528-LDR-Photo-Resistors-Light-Dependent-WS/222122787897)
+  * JST 2.00mm pitch 4-pin connector and cable
+    * [AliExpress](https://www.aliexpress.com/item/20-SETS-Mini-Micro-JST-2-0-PH-4-Pin-Connector-plug-with-Wires-Cables-300MM/32611300648.html)
+    * [AliExpress](https://www.aliexpress.com/item/20-Sets-PH-2-0mm-JST-2-3-4-5-6-7-8-9-10-12P/32782287584.html)
+    * [AliExpress](https://www.aliexpress.com/item/10sets-1-0mm-1-25mm-1-5mm-2-0-2-54mm-2-3-4-5-6/32733307616.html)
 
 * Minimum 12V 1A DC power supply with barrel connector
   * Barrel size: 5.5 x 2.5mm
