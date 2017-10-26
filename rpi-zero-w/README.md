@@ -36,15 +36,25 @@
     * [ebay](https://www.ebay.com.au/itm/100pcs-5mm-LED-Lights-Infrared-Emitters-IR-Emitting-Diodes-940nm-Wave-Length/201201649166)
   * GL5528 LDR Photo Resistors
     * [ebay](http://www.ebay.com.au/itm/20PCS-Photoresistor-GL5528-LDR-Photo-Resistors-Light-Dependent-WS/222122787897)
-  * JST 2.00mm pitch 4-pin connector and cable
-    * [AliExpress](https://www.aliexpress.com/item/20-SETS-Mini-Micro-JST-2-0-PH-4-Pin-Connector-plug-with-Wires-Cables-300MM/32611300648.html)
+  * JST PH 2.00mm pitch 4-pin connector and cable
     * [AliExpress](https://www.aliexpress.com/item/20-Sets-PH-2-0mm-JST-2-3-4-5-6-7-8-9-10-12P/32782287584.html)
+    * [AliExpress](https://www.aliexpress.com/item/20-SETS-Mini-Micro-JST-2-0-PH-4-Pin-Connector-plug-with-Wires-Cables-300MM/32611300648.html)
     * [AliExpress](https://www.aliexpress.com/item/10sets-1-0mm-1-25mm-1-5mm-2-0-2-54mm-2-3-4-5-6/32733307616.html)
+
+* 100mm Micro JST PH 1.25mm pitch 2 PIN Male Female cable
+    * [AliExpress](https://www.aliexpress.com/item/20Pair-Micro-JST-PH-1-25-2-PIN-Male-Female-Plug-Connector-With-Wire-Cables-100mm/32835740657.html)
+
+* 10cm 22AWG Male Female Connector JST Cable
+    * [AliExpress](https://www.aliexpress.com/item/10-Pairs-100mm-10cm-Male-Female-Connector-JST-Plug-Cable-For-RC-BEC-Battery-Helicopter-DIY/32823944800.html)
+
+* 12V DC Female Jack Connector Cable 5.5 X 2.1mm With 15CM Cable
+    * [AliExpress](https://www.aliexpress.com/item/10pcs-12V-DC-Power-Plug-Female-Jack-Plug-Connector-Cable-5-5X2-1mm-With-Cord-Cable/32536715262.html)
 
 * Minimum 12V 1A DC power supply with barrel connector
   * Barrel size: 5.5 x 2.5mm
-  * [AliExpress - DC12V power supply AU](https://www.aliexpress.com/item/Power-Adapter-Supply-For-Led-Flexible-Tape-Light-AC110-220V-to-DC12V-1A-2A-3A-4A/32742445815.html)
-  * [AliExpress - DC12V power supply AU](https://www.aliexpress.com/item/LED-Driver-12V-1A-2A-3A-5A-6A-8A-10A-Power-Supply-AC-220V-to-12V/32821553829.html)
+  * [AliExpress - 12V DC power supply AU](https://www.aliexpress.com/item/Led-transformer-AC-110V-220V-to-12V-DC-EU-US-UK-AU-plug-Power-supply-12V/32702717419.html)
+  * [AliExpress - 12V DC power supply AU](https://www.aliexpress.com/item/Power-Adapter-Supply-For-Led-Flexible-Tape-Light-AC110-220V-to-DC12V-1A-2A-3A-4A/32742445815.html)
+  * [AliExpress - 12V DC power supply AU](https://www.aliexpress.com/item/LED-Driver-12V-1A-2A-3A-5A-6A-8A-10A-Power-Supply-AC-220V-to-12V/32821553829.html)
 
 * 3 x 16mm M2.5 screws
   * [AliExpress](https://www.aliexpress.com/item/Cheap-Authentic-304-stainless-steel-Phillips-head-machine-screw-Phillips-pan-head-screws-M2-5-16/32368120946.html)
@@ -53,5 +63,8 @@
   * [AliExpress](https://www.aliexpress.com/item/Authentic-304-stainless-steel-hex-nuts-DIN934-hexagon-nut-M2-5/32359608962.html)
 
 * 2 x 8mm M2 screws
+  * [AliExpress](https://www.aliexpress.com/item/100PCS-Stainless-Steel-M2-x-8mm-Screw-Cross-Round-Head-Philips-Head-Screws-Hex-Socket-Button/32716321685.html)
+  * [AliExpress](https://www.aliexpress.com/item/50x-Set-M2-Stainless-Steel-Screw-Thread-Diameter-304-8mm-2mm-Head-Shape-Cross-Screws-Round/32598285502.html)
 
 * 2 x M2 hex nuts
+  * [AliExpress](https://www.aliexpress.com/item/100pcs-din934-Stainless-Steel-304-M2-Hex-Nut/32763090222.html)
