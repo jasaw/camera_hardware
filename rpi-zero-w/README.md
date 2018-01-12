@@ -34,6 +34,11 @@
     * Forward Current: 60mA Continuous, 120mA peak 10% pulse width
     * View Angle: 15-30 degree
     * [ebay](https://www.ebay.com.au/itm/100pcs-5mm-LED-Lights-Infrared-Emitters-IR-Emitting-Diodes-940nm-Wave-Length/201201649166)
+  * 5mm IR LEDs 850nm Wave Length
+    * Forward Voltage: 1.45~1.65V
+    * Forward Current: 20mA Continuous, 100mA max pulse
+    * View Angle: 30 degree
+    * [AliExpress](https://www.aliexpress.com/item/100Pcs-5mm-IR-Led-850nm-Lamp-Transmitting-Tube-Emitting-Diode-Infrared-LED-Diode-ir-850nm-High/32373548361.html)
   * GL5528 LDR Photo Resistors
     * [ebay](http://www.ebay.com.au/itm/20PCS-Photoresistor-GL5528-LDR-Photo-Resistors-Light-Dependent-WS/222122787897)
   * JST PH 2.00mm pitch 4-pin connector and cable
