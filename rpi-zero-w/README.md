@@ -1,6 +1,12 @@
 # Raspberry Pi Zero W security camera hardware
 
-* Camera bracket
+
+Exploded view of the camera parts.
+![assembly](camera_bracket_assembly.png)
+
+
+* 3D printed camera bracket:
+  * ![bracket](camera_bracket.png)
 
 * Outdoor dummy security camera:
   * ![dummy1](dummy1.png)
@@ -45,6 +51,8 @@
     * [AliExpress](https://www.aliexpress.com/item/20-Sets-PH-2-0mm-JST-2-3-4-5-6-7-8-9-10-12P/32782287584.html)
     * [AliExpress](https://www.aliexpress.com/item/20-SETS-Mini-Micro-JST-2-0-PH-4-Pin-Connector-plug-with-Wires-Cables-300MM/32611300648.html)
     * [AliExpress](https://www.aliexpress.com/item/10sets-1-0mm-1-25mm-1-5mm-2-0-2-54mm-2-3-4-5-6/32733307616.html)
+  * Optical IR Cut Light Filter 8mm
+    * [ebay](https://www.ebay.com.au/itm/10pcs-Optical-UV-IR-Cut-Light-Filter-Blocking-For-Camera-Astronomy-Lens-8mm-Slim/282653207704)
 
 * 100mm Micro JST PH 1.25mm pitch 2 PIN Male Female cable
     * [AliExpress](https://www.aliexpress.com/item/20Pair-Micro-JST-PH-1-25-2-PIN-Male-Female-Plug-Connector-With-Wire-Cables-100mm/32835740657.html)
