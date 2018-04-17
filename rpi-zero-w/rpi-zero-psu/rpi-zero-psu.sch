@@ -5874,6 +5874,9 @@ to get 5V Vout.</text>
 <wire x1="124.46" y1="152.4" x2="124.46" y2="111.76" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="124.46" y1="111.76" x2="60.96" y2="111.76" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="60.96" y1="111.76" x2="60.96" y2="152.4" width="0.1524" layer="97" style="shortdash"/>
+<text x="114.3" y="71.12" size="1.778" layer="97">GL5528 CdS
+Light resistance: 8~20K ohms
+Dark resistance: 1M ohms</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
