@@ -49,9 +49,6 @@ Exploded view of the camera parts.
 * Camera IR-LED board
   * [IR-LED PCBA](camera-ir-led/README.md)
 
-* 100mm Micro JST PH 1.25mm pitch 2 PIN Male Female cable
-    * [AliExpress](https://www.aliexpress.com/item/20Pair-Micro-JST-PH-1-25-2-PIN-Male-Female-Plug-Connector-With-Wire-Cables-100mm/32835740657.html)
-
 * 10cm 22AWG Male Female Connector JST Cable
     * [AliExpress](https://www.aliexpress.com/item/10-Pairs-100mm-10cm-Male-Female-Connector-JST-Plug-Cable-For-RC-BEC-Battery-Helicopter-DIY/32823944800.html)
 
@@ -79,6 +76,8 @@ Exploded view of the camera parts.
 * 2 x M2 hex nuts
   * [AliExpress](https://www.aliexpress.com/item/100pcs-din934-Stainless-Steel-304-M2-Hex-Nut/32763090222.html)
 
+* (optional) 5.5*2.1mm DC 1 To 2 Way Jack Connector Power Splitter Cable
+  * [AliExpress](https://www.aliexpress.com/item/2pcs-5-5-2-1mm-DC-1-To-2-Way-Jack-Connector-Power-Splitter-Cable-For/32845687591.html)
 
 
 ## Assembly Instructions
